@@ -1,4 +1,4 @@
-import Dots from '../../assets/icons/dots.png';
+import Dots from '../../assets/icons/Dots.png';
 import eclipse1Url from '../../assets/images/Ellipse1.png';
 import eclipse2Url from '../../assets/images/Ellipse2.png';
 
