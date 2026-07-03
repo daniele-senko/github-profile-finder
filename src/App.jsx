@@ -43,7 +43,7 @@ function App() {
   };
 
   return (
-    <div className="relative min-h-screen bg-[#272727] overflow-hidden flex items-center justify-center">
+    <div className="relative min-h-screen bg-[#1F1F1F] overflow-hidden flex items-center justify-center">
       <Background />
       <div className="relative w-[1157px] max-w-[95vw] h-[537px] bg-black shadow-2xl flex flex-col items-center pt-[48px] px-4">
         {/* cabeçalho da interface principal */}
