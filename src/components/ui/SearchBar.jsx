@@ -16,7 +16,7 @@ export default function SearchBar({ onSearch }) {
         name="username"
         type="text"
         placeholder="Digite um usuário do Github"
-        className="w-full h-[62px] pl-6 pr-[72px] rounded-[10px] bg-white text-black font-nunito font-light text-xl placeholder-black outline-none ring-0 focus:outline-none focus:ring-0 focus:ring-offset-0"
+        className="w-full h-[62px] pl-6 pr-[72px] rounded-[10px] bg-white text-black font-nunito font-semibold text-xl placeholder-black outline-none ring-0 focus:outline-none focus:ring-0 focus:ring-offset-0 border border-white"
       />
       <button
         type="submit"
