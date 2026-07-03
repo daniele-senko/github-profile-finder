@@ -1,6 +1,6 @@
 export default function UserCard({ user }) {
   return (
-    <div className="w-[804px] max-w-full h-[257px] bg-[#D9D9D9] rounded-[25px] flex items-center px-6 gap-2">
+    <div className="w-[804px] max-w-full h-[257px] bg-[#D9D9D9] border border-black rounded-[25px] flex items-center pl-[47px] pr-6 gap-2">
       {/* Foto com borda azul */}
       <img 
         src={user.avatar_url} 
