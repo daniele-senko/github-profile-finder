@@ -6,6 +6,7 @@ export default function SearchBar({ onSearch }) {
     const input = e.target.elements.username;
     if (input.value.trim()) {
       onSearch(input.value.trim());
+      input.value = '';
     }
   };
 
